@@ -1,4 +1,4 @@
-# Differentiable multi-ridge regression for system identification
+# Capacity Estimation of Lithium-Ion batteries Through a Machine Learning Approach
 
 This github repository contains the Python code to reproduce the results of the paper Capacity Estimation of Lithium-Ion batteries Through a Machine Learning Approach by Simone Barcellona, Lorenzo Codecasa, Silvia Colnago, Loris Cannelli, Christian
 Laurano, Gabriele Maroni and Emil Petkovski.
